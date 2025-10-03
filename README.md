@@ -11,7 +11,7 @@
 
 ## 📊 Пример визуализации
 
-![Динамика коэффициентов отдела](Reports/department_prolongation_coefficients.png)
+![Динамика коэффициентов отдела](Charts/department_prolongation_coefficients.png)
 
 ---
 
