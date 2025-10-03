@@ -59,28 +59,26 @@
 
 ## 🧱 Структура репозитория
 
+```text
 topface/
-├── Charts/ # Визуализации (PNG)
-│ ├── annual_prolongation_by_manager.png
-│ ├── comprehensive_manager_comparison.png
-│ ├── department_prolongation_coefficients.png
-│ └── monthly_trends_by_manager.png
-│
-├── data/ # Исходные данные (CSV/XLSX)
-│ ├── financial_data.csv
-│ └── prolongations.csv
-│
-├── Reports/ # Итоговые файлы (XLSX/TXT)
-│ ├── prolongation_analysis_code_explanation.txt
-│ └── prolongation_analysis_report.xlsx
-│
-├── solution/ # Код/решения
-│ ├── topface_solution_code.ipynb # Основной ноутбук с расчётами
-│ └── .gitkeep # Заглушка для папки
-│
-├── requirements.txt # Зависимости проекта
-├── README.md # Документация проекта
-└── .gitignore # Игнорируемые файлы
+├── Charts/                                # Визуализации (PNG)
+│   ├── annual_prolongation_by_manager.png
+│   ├── comprehensive_manager_comparison.png
+│   ├── department_prolongation_coefficients.png
+│   └── monthly_trends_by_manager.png
+├── data/                                  # Исходные данные (CSV/XLSX)
+│   ├── financial_data.csv
+│   └── prolongations.csv
+├── Reports/                               # Итоговые файлы (XLSX/TXT)
+│   ├── prolongation_analysis_code_explanation.txt
+│   └── prolongation_analysis_report.xlsx
+├── solution/                              # Код/решения
+│   ├── topface_solution_code.ipynb        # Основной ноутбук
+│   └── .gitkeep                           # Заглушка для папки
+├── requirements.txt
+├── README.md
+└── .gitignore
+
 
 
 ---
